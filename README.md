@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**k4toch4/k4toch4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Henry, a Cybersecurity Analyst based in Uruguay.
 
-Here are some ideas to get you started:
+My jurny in cybersecurity it is new, so I'm currently developing my skills, focusing on Blue Team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focusing on SOC analysis and Threath detection
+
+This is a profile that I would use to share some of my projects that I'm develop for adquire a better knowledgo of the tools used
+
+---
+
+## Tools and Techs
+
+Tools: Sysmon, Wazuh, Event Viewer, Linux CLI
+Programing languages: Python, Bash
