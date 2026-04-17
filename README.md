@@ -2,7 +2,7 @@
 
 I'm Henry, a Cybersecurity Analyst based in Uruguay.
 
-My jurny in cybersecurity it is new, so I'm currently developing my skills, focusing on Blue Team
+My journey in cybersecurity it is new, so I'm currently developing my skills, focusing on Blue Team
 
 I'm focusing on SOC analysis and Threath detection
 
