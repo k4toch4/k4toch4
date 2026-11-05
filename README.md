@@ -6,7 +6,7 @@
 
 Available for freelance work:
 
-Linux/VPS Hardening (verified) — SSH, firewall, fail2ban, updates and access control, verified with before/after external scans and a hardening score.
+Linux/VPS Hardening — SSH, firewall, fail2ban, updates and access control, verified with before/after external scans and a hardening score.
 
 Hacked Server Analysis & Recovery — triage, root cause analysis (how they got in, when, what they touched), cleanup or rebuild, credential rotation and hardening.
 
@@ -16,7 +16,7 @@ Every engagement includes a written report with findings prioritized by risk and
 
 ## Offensive Security & Research
 
-VPS-Hardening-Verified — (coming soon) Hardening a Linux VPS from Lynis score X to Y, with before/after nmap scans and a reusable Bash script.
+[VPS-Hardening-Verified](https://github.com/k4toch4/VPS-hardening) Hardening a Linux VPS from Lynis score X to Y, with before/after nmap scans and a reusable Bash script.
 
 AI-Built-App-Security-Audit — (coming soon) Security audit of a web app generated entirely with AI: findings, impact and fixes.
 
